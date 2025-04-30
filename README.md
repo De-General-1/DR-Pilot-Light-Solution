@@ -24,6 +24,8 @@ Our primary goal was to build a robust and automated disaster recovery solution 
 
 ## **Infrastructure Overview**
 
+<img src="./img/DR-arch_diagram.png">
+
 ### **Primary Region**
 
 - **VPC**: Public and private subnets.
